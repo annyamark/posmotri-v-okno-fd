@@ -34,3 +34,5 @@ CSS3 - Flexbox, Grid, modern layout techniques
 JavaScript (ES6+) - интерактивность и работа с API 
 Fetch API - загрузка данных 
 CSS Custom Properties - переменные для цветов и размеров
+
+Ссылка на репозиторий: git@github.com:annyamark/posmotri-v-okno-fd.git
