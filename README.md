@@ -22,10 +22,10 @@
  text project<br/> 
  ├── index.html # Основной HTML файл<br/>
  ├── styles/ # Стили проекта<br/> 
-  │ └── style.css # Основной файл стилей<br/> 
-  ├── scripts/ # JavaScript файлы<br/> 
-  │ └── index.js # Основная логика приложения<br/> 
-  └── images/ # Изображения и иконки<br/>
+  &nbsp;│ └── style.css # Основной файл стилей<br/> 
+  &nbsp;├── scripts/ # JavaScript файлы<br/> 
+  &nbsp;│ └── index.js # Основная логика приложения<br/> 
+  &nbsp;└── images/ # Изображения и иконки<br/>
 
 ## <ins>Используемые технологии</ins>
 
